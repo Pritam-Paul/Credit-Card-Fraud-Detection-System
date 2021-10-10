@@ -41,8 +41,3 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 If you have any feedback, please reach out to me at pritampaul360@gmail.com
 
   
-## Screenshots
-
-![Screenshot](https://imgur.com/a/m8au9s7)
-![Screenshot](https://imgur.com/a/cLuK8Wd)
-![Screenshot](https://imgur.com/a/4C91sxY)
